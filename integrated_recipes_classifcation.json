@@ -1,0 +1,5 @@
+{
+    "recipes":["clare", "bae", "bert-attack",  "fast-alzantot", "hotflip", "input-reduction", "textfooler"],
+    "models": {"albert-base-v2-mr":"rotten_tomatoes","bert-base-uncased-mr":"rotten_tomatoes", "distilbert-base-uncased-mr":"rotten_tomatoes", "distilbert-base-cased-mr":"rotten_tomatoes", "roberta-base-mr":"rotten_tomatoes", "albert-base-v2-imdb":"imdb", "bert-base-uncased-imdb":"imdb", "distilbert-base-uncased-imdb":"imdb", "distilbert-base-cased-imdb":"imdb", "roberta-base-imdb":"imdb"}
+}
+
